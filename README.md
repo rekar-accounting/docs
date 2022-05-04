@@ -19,3 +19,6 @@ $ git checkout <target-branch>
 $ git pull
 ```
 
+## Naming Conventions
+
+- Branches: rekar-feature-[feature-name]
