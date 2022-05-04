@@ -22,4 +22,4 @@ $ git pull
 ## Naming Conventions
 
 - Branches: rekar-feature-[feature-name]
-- Pull Requests: merge [<source-branch>] into [<target-branch>]
+- Pull Requests: merge [source-branch] into [target-branch]
