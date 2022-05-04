@@ -19,6 +19,11 @@ $ ssh -T git@github.com
 $ git clone [remote-address]
 ```
 
+## Adding upstream branch
+```bash
+$ git branch -u origin [upstream-branch]
+```
+
 ## Creating a new branch
 
 ```bash
