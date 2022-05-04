@@ -1,7 +1,15 @@
-# Setting up SSH for github
-In order to push changes to your remote repository, make sure to setup SSH settings according to this [link](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account).
+## Setting up SSH for github
+Run the following commands in your local computer:
+```bash
+$ ssh-keygen -t ed25519 -C "your_email@example.com" (accept all default options)
+$ eval "$(ssh-agent -s)"
+$ ssh-add ~/.ssh/id_ed25519
+$ clip < ~/.ssh/id_ed25519.pub
+```
+Now, you should add your ssh key to your github account according to this [link](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
 
 ## Clone a remote repository
+
 ```bash
 $ git clone [remote-address]
 ```
