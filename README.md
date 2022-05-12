@@ -55,3 +55,6 @@ Install these extensions to get a better develeopment experience in you IDE:
 - ESLint
 - npm Intellisense
 - change-case
+
+## Useful Shortcuts in VSCode
+- Alt+Shift+O to remove unused imports
