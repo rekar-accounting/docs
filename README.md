@@ -46,3 +46,12 @@ $ git pull
 
 - Branches: rekar-feature-[feature-name]
 - Pull Requests: merge [source-branch] into [target-branch]
+
+## Visual Studio Extensions
+Install these extensions to get a better develeopment experience in you IDE:
+- ES7 React/Redux/GraphQL/React-Native snippets
+- Prettier – Code formatted
+- Auto Rename Tag
+- ESLint
+- npm Intellisense
+- change-case
