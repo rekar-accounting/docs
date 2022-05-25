@@ -49,12 +49,15 @@ git pull
 
 ## Naming Conventions
 
-- Branches: rekar-feature-[feature-name]
-- Pull Requests: merge [source-branch] into [target-branch]
+- Branches: `rekar-feature-[feature-name]`
+- Pull Requests: `merge [source-branch] into [target-branch]`
 - Component File Names: `TextInput.tsx` (PascalCase)
 - Component Names: `TextInput` (PascalCase)
 - Page File Names: `phoneVerification.tsx` (camelCase)
 - Page Component Names: `[name]Page` (PascalCase e.g. `PhoneVerificationPage`)
+- Function Names: `verifyPhone` (camelCase)
+- Variable Names: `variableName` camelCase
+- Class Names: `AuthenticationService` (PascalCase)
 
 ## Visual Studio Extensions
 
