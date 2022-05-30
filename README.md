@@ -49,7 +49,7 @@ git pull
 
 ## Naming Conventions
 
-- Branches: `rekar-feature-[feature-name]`
+- Branches: `rekar-[task-branch-name]`
 - Pull Requests: `merge [source-branch] into [target-branch]`
 - Component File Names: `TextInput.tsx` (PascalCase)
 - Component Names: `TextInput` (PascalCase)
