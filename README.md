@@ -59,7 +59,7 @@ git pull
 - Variable Names: `variableName` camelCase
 - Class Names: `AuthenticationService` (PascalCase)
 
-## Visual Studio Extensions
+## VSCode Extensions
 
 Install these extensions to get a better develeopment experience in you IDE:
 
